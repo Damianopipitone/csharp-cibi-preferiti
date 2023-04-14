@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Miei cibi preferiti", "Miei cibi preferiti\Miei cibi preferiti.csproj", "{AA63C8EF-73D5-437F-9F0F-10DB8B9102CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bonus", "Bonus\Bonus.csproj", "{8573BAD6-CEBA-4481-B33E-2565D792B6D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA63C8EF-73D5-437F-9F0F-10DB8B9102CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA63C8EF-73D5-437F-9F0F-10DB8B9102CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA63C8EF-73D5-437F-9F0F-10DB8B9102CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA63C8EF-73D5-437F-9F0F-10DB8B9102CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8573BAD6-CEBA-4481-B33E-2565D792B6D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8573BAD6-CEBA-4481-B33E-2565D792B6D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8573BAD6-CEBA-4481-B33E-2565D792B6D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8573BAD6-CEBA-4481-B33E-2565D792B6D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1DCEC89-1066-4B33-B916-9979377DC867}
+	EndGlobalSection
+EndGlobal
